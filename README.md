@@ -18,25 +18,25 @@ $ pip install -r requirements.txt
 
 #### Add first channel (telegram)
 
-`
+```
 $ python manage.py --entity source add # this do only for first channel
 > Input Source name: telegram
 
 $ python manage.py --entity channel add
 > Input Channel name: TheBadComedian
 > Input Source name: telegram
-`
+```
 
 
 #### Sync entities
 
-`
+```
 $ python sync.py --entity posts
 
 $ python sync.py --entity comments
 
 $ python sync.py --entity users
-`
+```
 
 
 
