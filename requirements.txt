@@ -1,0 +1,10 @@
+telethon
+sqlalchemy
+black
+pylint
+python-dotenv
+pytest-asyncio
+pytest-env
+pytest-mock
+asyncclick
+anyio

@@ -1,0 +1,9 @@
+*.db
+*.swp
+*.pyc
+venv
+__pycache__
+*.session
+*.session-journal
+.env
+.pytest_cache
