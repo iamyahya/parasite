@@ -38,6 +38,6 @@ $ python sync.py --entity comments
 $ python sync.py --entity users
 ```
 
-#### :checkered_flag: Before push request
+#### :checkered_flag: Lint & test before push
 
 Let linter check code `$ pylint *.py`, and check unit test results `$ python -m pytest tests`
