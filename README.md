@@ -6,7 +6,7 @@ Service for parsing cahnnel posts, comments and users.
 ### Install
 
 
-Put your telegam app credentials to `.env` file.
+Put your telegam app credentials in `.env` file.
 
 
 #### Install required libs
